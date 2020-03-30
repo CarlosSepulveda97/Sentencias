@@ -1,0 +1,13 @@
+C:\Users\carlo\source\repos\Sentencias\bin\Debug\netcoreapp3.1\Sentencias.exe
+C:\Users\carlo\source\repos\Sentencias\bin\Debug\netcoreapp3.1\Sentencias.deps.json
+C:\Users\carlo\source\repos\Sentencias\bin\Debug\netcoreapp3.1\Sentencias.runtimeconfig.json
+C:\Users\carlo\source\repos\Sentencias\bin\Debug\netcoreapp3.1\Sentencias.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\Sentencias\bin\Debug\netcoreapp3.1\Sentencias.dll
+C:\Users\carlo\source\repos\Sentencias\bin\Debug\netcoreapp3.1\Sentencias.pdb
+C:\Users\carlo\source\repos\Sentencias\obj\Debug\netcoreapp3.1\Sentencias.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Sentencias\obj\Debug\netcoreapp3.1\Sentencias.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Sentencias\obj\Debug\netcoreapp3.1\Sentencias.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\Sentencias\obj\Debug\netcoreapp3.1\Sentencias.AssemblyInfo.cs
+C:\Users\carlo\source\repos\Sentencias\obj\Debug\netcoreapp3.1\Sentencias.dll
+C:\Users\carlo\source\repos\Sentencias\obj\Debug\netcoreapp3.1\Sentencias.pdb
+C:\Users\carlo\source\repos\Sentencias\obj\Debug\netcoreapp3.1\Sentencias.genruntimeconfig.cache
